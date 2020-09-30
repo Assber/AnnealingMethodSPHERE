@@ -1,9 +1,6 @@
 package AnnealingMethod;
 
-/**
- *
- * @author Almaz
- */
+
 public class Solution {
 
     private Double r;

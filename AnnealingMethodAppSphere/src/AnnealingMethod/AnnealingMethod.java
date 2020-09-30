@@ -1,9 +1,6 @@
 package AnnealingMethod;
 
-/**
- *
- * @author Almaz
- */
+
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
