@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnealingMethodAppSphere/AnnealingMethodApp/AnnealingMethodApp.iml" filepath="$PROJECT_DIR$/AnnealingMethodAppSphere/AnnealingMethodApp/AnnealingMethodApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnealingMethodAppSphere/AnnealingMethodAppSphere.iml" filepath="$PROJECT_DIR$/AnnealingMethodAppSphere/AnnealingMethodAppSphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Новая папка/Новая папка.iml" filepath="$PROJECT_DIR$/Новая папка/Новая папка.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/СФЕРА.iml" filepath="$PROJECT_DIR$/.idea/СФЕРА.iml" />
+    </modules>
+  </component>
+</project>
